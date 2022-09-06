@@ -3,11 +3,11 @@
 -  Always learning
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/961911/133911054-4e86e241-97d0-4e2e-8f68-dc1533aed974.png" width="800px">
+<img src="https://user-images.githubusercontent.com/961911/188751821-7998deae-c571-4f57-a73b-730a1525d8bd.png" width="400px">
 <br>
 <a href="https://santiherranz.github.io/demo/" target="_blank"><b>Play the game</b></a>
   
-  This game was created for the 2022 <a href="https://js13kgames.com" target="_blank"><b>JS13K game competition themed DEATH</b></a>
+  This game was created for the 2022 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed DEATH
   
  </p>
   <br>
