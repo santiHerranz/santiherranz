@@ -1,19 +1,20 @@
-### Hi there 👋
-
--  Always learning
-
 <p align="center">
 
+<h2>Battle commander - Middle ages</h2>
 
-  <img src="https://user-images.githubusercontent.com/961911/188751821-7998deae-c571-4f57-a73b-730a1525d8bd.png" width="400px">
+  <img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="400px">
 <br>
-<a href="[https://js13kgames.com/games/battle-commander-middle-ages/](https://js13kgames.com/games/battle-commander-middle-ages/index.html)" target="_blank"><b>Play the game</b></a>
-  
-  This game was created for the 2022 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed 16th Century
+
+<a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank"><b>Play the game</b></a>
+
+  <br>
+  This game was created for the 2023 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed 13th Century
   
  </p>
   <br>
+
   
+  <a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a>
   
 
 
