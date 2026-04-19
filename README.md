@@ -1,38 +1,85 @@
-<div align="center">
+## Web games
 
-## Battle commander - Middle ages
+<p align="center"><a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a></p>
 
-<img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="400" alt="Battle commander game screenshot">
+<!--
+  Game grid: newest first (left → right, top → bottom). Each row is two columns.
+  To add a game, insert its <td> in date order or add a new <tr> with two cells.
+-->
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h4 align="center">Missile Command — Modern Edition</h4>
+
+<a href="https://santiherranz.github.io/new-missile-command/" target="_blank">
+<img src="./Screenshot%20-%20Missile%20Command%20-%20Modern%20Edition.png" width="100%" alt="Missile Command Modern Edition gameplay: incoming missiles over blue cities on yellow terrain">
+</a>
+
+<br><br>
+
+<a href="https://santiherranz.github.io/new-missile-command/" target="_blank"><b>Play in the browser</b></a>
 
 <br>
+
+<sub>2025–2026 · browser</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h4 align="center">Battle commander — Middle ages</h4>
+
+<a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank">
+<img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="100%" alt="Battle commander game screenshot">
+</a>
+
+<br><br>
 
 <a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank"><b>Play the game</b></a>
 
 <br>
 
-This game was created for the 2023 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed 13th Century
+<sub>2023 <a href="https://js13kgames.com" target="_blank">JS13K</a> — 13th century theme</sub>
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br>
+<h4 align="center">SumoFighters</h4>
 
-<div align="center">
-
-## Missile Command — Modern Edition
-
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank">
-  <img src="./Screenshot%20-%20Missile%20Command%20-%20Modern%20Edition.png" width="400" alt="Missile Command Modern Edition gameplay: incoming missiles over blue cities on yellow terrain">
+<a href="https://santiherranz.github.io/SumoFighters/" target="_blank">
+<img src="./Screenshot%20-%20SumoFighters.png" width="100%" alt="SumoFighters robot sumo battle simulator screenshot">
 </a>
 
-<br>
+<br><br>
 
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank"><b>Play in the browser</b></a>
-
-</div>
+<a href="https://santiherranz.github.io/SumoFighters/" target="_blank"><b>Play in the browser</b></a>
 
 <br>
 
-<a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a>
+<sub>2021 · robot sumo simulator</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h4 align="center">Rocket Cargo</h4>
+
+<a href="https://santiherranz.github.io/RocketCargo/" target="_blank">
+<img src="./Screenshot%20-%20Rocket%20Cargo.png" width="100%" alt="Rocket Cargo gameplay screenshot">
+</a>
+
+<br><br>
+
+<a href="https://santiherranz.github.io/RocketCargo/" target="_blank"><b>Play in the browser</b></a>
+
+<br>
+
+<sub>JS13K 2021</sub>
+
+</td>
+</tr>
+</table>
 
 - [JS13K 20240905](https://santiherranz.github.io/santiherranz/20240905.html)
 - [JS13K 20240902](https://santiherranz.github.io/santiherranz/20240902.html)
