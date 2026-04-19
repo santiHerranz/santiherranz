@@ -16,6 +16,22 @@ This game was created for the 2023 <a href="https://js13kgames.com" target="_bla
 
 <br>
 
+<div align="center">
+
+## Missile Command — Modern Edition
+
+<a href="https://santiherranz.github.io/new-missile-command/" target="_blank">
+  <img src="./Screenshot%20-%20Missile%20Command%20-%20Modern%20Edition.png" width="400" alt="Missile Command Modern Edition gameplay: incoming missiles over blue cities on yellow terrain">
+</a>
+
+<br>
+
+<a href="https://santiherranz.github.io/new-missile-command/" target="_blank"><b>Play in the browser</b></a>
+
+</div>
+
+<br>
+
 <a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a>
 
 - [JS13K 20240905](https://santiherranz.github.io/santiherranz/20240905.html)
