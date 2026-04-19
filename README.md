@@ -1,46 +1,113 @@
-<p align="center">
+<div align="center">
 
-<h2>Battle commander - Middle ages</h2>
+## Battle commander - Middle ages
 
-  <img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="400px">
+<img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="400" alt="Battle commander game screenshot">
+
 <br>
 
 <a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank"><b>Play the game</b></a>
 
-  <br>
-  This game was created for the 2023 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed 13th Century
-  
- </p>
-  <br>
+<br>
 
-  
-  <a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a>
+This game was created for the 2023 <a href="https://js13kgames.com" target="_blank"><b>JS13K</b></a> game competition themed 13th Century
 
-<ul>
-  <li>
-      <a href="https://santiherranz.github.io/santiherranz/20240905.html" target="_blank"><b>JS13K 20240905</b></a>
-    </li>
-  <li>
-      <a href="https://santiherranz.github.io/santiherranz/20240902.html" target="_blank"><b>JS13K 20240902</b></a>
-    </li>
-  <li>
-      <a href="https://santiherranz.github.io/santiherranz/20240901.html" target="_blank"><b>JS13K 20240901</b></a>
-    </li>
-  <li>
-      <a href="https://santiherranz.github.io/santiherranz/20240831.html" target="_blank"><b>JS13K 20240831</b></a>
-    </li>
-</ul>
-<!--
-**santiHerranz/santiherranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://santiherranz.itch.io/" target="_blank">santiherranz.itch.io</a>
+
+- [JS13K 20240905](https://santiherranz.github.io/santiherranz/20240905.html)
+- [JS13K 20240902](https://santiherranz.github.io/santiherranz/20240902.html)
+- [JS13K 20240901](https://santiherranz.github.io/santiherranz/20240901.html)
+- [JS13K 20240831](https://santiherranz.github.io/santiherranz/20240831.html)
+
+---
+
+## Public repositories
+
+Pinned-style cards (live metadata from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/js13k2023-Battle-commander-Middle-ages">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=js13k2023-Battle-commander-Middle-ages&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="js13k2023 Battle commander Middle ages" width="100%">
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/SumoFighters">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=SumoFighters&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="SumoFighters" width="100%">
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/RocketCargo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=RocketCargo&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="RocketCargo" width="100%">
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/js13k-2024">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=js13k-2024&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="js13k 2024" width="100%">
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/Fire-and-water-interaction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=Fire-and-water-interaction&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="Fire and water interaction" width="100%">
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/santiherranz.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=santiherranz.github.io&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="Portfolio site" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>All public repositories</b> (A–Z)</summary>
+
+| Repository | Description | Language |
+| :--- | :--- | :---: |
+| [Balls](https://github.com/santiHerranz/Balls) | Created with CodeSandbox | JavaScript |
+| [BouncingBalls](https://github.com/santiHerranz/BouncingBalls) | Created with CodeSandbox | JavaScript |
+| [DISSENY-DE-BASES-DE-DADES](https://github.com/santiHerranz/DISSENY-DE-BASES-DE-DADES) | — | — |
+| [Enginyeria-Software-I](https://github.com/santiHerranz/Enginyeria-Software-I) | — | Java |
+| [Fire-and-water-interaction](https://github.com/santiHerranz/Fire-and-water-interaction) | Canvas fire and water interaction | JavaScript |
+| [GdxGameTemplate](https://github.com/santiHerranz/GdxGameTemplate) | — | Java |
+| [js13k-2024](https://github.com/santiHerranz/js13k-2024) | JS13K 2024 entry | TypeScript |
+| [js13k2023-Battle-commander-Middle-ages](https://github.com/santiHerranz/js13k2023-Battle-commander-Middle-ages) | Battle commander — Middle ages (JS13K 2023) | TypeScript |
+| [LabMultimedia](https://github.com/santiHerranz/LabMultimedia) | — | JavaScript |
+| [linewar-replay-reader](https://github.com/santiHerranz/linewar-replay-reader) | — | C# |
+| [PA_Examen_11_Gener_2012](https://github.com/santiHerranz/PA_Examen_11_Gener_2012) | — | Java |
+| [PA_Examen_20141119](https://github.com/santiHerranz/PA_Examen_20141119) | — | Java |
+| [PA_Examen_20150119](https://github.com/santiHerranz/PA_Examen_20150119) | — | Java |
+| [PA_Examen_20151103-Arbres-Lliuraments](https://github.com/santiHerranz/PA_Examen_20151103-Arbres-Lliuraments) | — | Java |
+| [PA_Examen_Gener_2016](https://github.com/santiHerranz/PA_Examen_Gener_2016) | — | Java |
+| [PA_Practica_5_Solitari](https://github.com/santiHerranz/PA_Practica_5_Solitari) | — | Java |
+| [PROGRAMACIO_AVANCADA](https://github.com/santiHerranz/PROGRAMACIO_AVANCADA) | Exam collection | Java |
+| [ProgramacioAvancada](https://github.com/santiHerranz/ProgramacioAvancada) | — | Java |
+| [ProgramacioAvancada-20170110-Examen](https://github.com/santiHerranz/ProgramacioAvancada-20170110-Examen) | — | Java |
+| [ProgramacioAvancada-Examen2016-2](https://github.com/santiHerranz/ProgramacioAvancada-Examen2016-2) | — | Java |
+| [ProgramacioAvancadaLabs](https://github.com/santiHerranz/ProgramacioAvancadaLabs) | — | Java |
+| [ProgramacioAvan-ada](https://github.com/santiHerranz/ProgramacioAvan-ada) | Lab exercises collection | Java |
+| [QuizCampus](https://github.com/santiHerranz/QuizCampus) | Web app for surveys / quizzes | Java |
+| [RocketCargo](https://github.com/santiHerranz/RocketCargo) | JS13K 2021 game | JavaScript |
+| [santi-know-tweets](https://github.com/santiHerranz/santi-know-tweets) | — | HTML |
+| [santiherranz](https://github.com/santiHerranz/santiherranz) | GitHub profile README and JS13K dev logs | HTML |
+| [santiherranz.github.io](https://github.com/santiHerranz/santiherranz.github.io) | Portfolio | JavaScript |
+| [SmartCity-Local-Search](https://github.com/santiHerranz/SmartCity-Local-Search) | — | Java |
+| [Spaceport](https://github.com/santiHerranz/Spaceport) | Imagining future spaceport infrastructure | JavaScript |
+| [SumoFighters](https://github.com/santiHerranz/SumoFighters) | Simulator for testing robot strategies in sumo battle | JavaScript |
+| [SyncListSample](https://github.com/santiHerranz/SyncListSample) | Microsoft Sync Framework Toolkit iPhone sample (fork with changes) | Objective-C |
+| [WellBalanced](https://github.com/santiHerranz/WellBalanced) | — | C++ |
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/santiHerranz?tab=repositories&q=&type=public&language=&sort=">View all on GitHub →</a>
+</p>
