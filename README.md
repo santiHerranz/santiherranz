@@ -10,17 +10,13 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h4 align="center">Rocket Command: Rockfall</h4>
+<h4 align="center">Rockfall Command</h4>
 
 <a href="https://santiherranz.github.io/rockfall-command/" target="_blank">
 <img src="./Rockfall%20Command-Grok.jpg" width="100%" alt="Rockfall Command: defend cities from incoming meteors with ABMs">
 </a>
 
 <br><br>
-
-<p align="center">
-<iframe frameborder="0" src="https://itch.io/embed/4532322" width="552" height="167" title="Rockfall Command on itch.io"><a href="https://santiherranz.itch.io/rockfall-command">Rockfall Command by santiHerranz</a></iframe>
-</p>
 
 <p align="center"><a href="https://santiherranz.itch.io/rockfall-command" target="_blank"><b>Play on itch.io</b></a></p>
 
