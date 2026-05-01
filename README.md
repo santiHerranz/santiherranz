@@ -12,13 +12,13 @@
 
 <h4 align="center">Rocket Command: Rockfall</h4>
 
-<a href="https://santiherranz.github.io/rocket-command-rockfall/" target="_blank">
-<img src="./Rocket%20Command%20Rockfall.png" width="100%" alt="Rocket Command Rockfall: defend cities from incoming meteors with ABMs">
+<a href="https://santiherranz.github.io/rockfall-command/" target="_blank">
+<img src="./Rockfall%20Command.png" width="100%" alt="Rockfall Command: defend cities from incoming meteors with ABMs">
 </a>
 
 <br><br>
 
-<a href="https://santiherranz.github.io/rocket-command-rockfall/" target="_blank"><b>Play in the browser</b></a>
+<a href="https://santiherranz.github.io/rockfall-command/" target="_blank"><b>Play in the browser</b></a>
 
 <br>
 
