@@ -12,13 +12,13 @@
 
 <h4 align="center">Missile Command — Modern Edition</h4>
 
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank">
+<a href="[https://santiherranz.github.io/new-missile-command/](https://santiherranz.github.io/rocket-command-rockfall/)" target="_blank">
 <img src="./Screenshot%20-%20Missile%20Command%20-%20Modern%20Edition.png" width="100%" alt="Missile Command Modern Edition gameplay: incoming missiles over blue cities on yellow terrain">
 </a>
 
 <br><br>
 
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank"><b>Play in the browser</b></a>
+<a href="[https://santiherranz.github.io/new-missile-command/](https://santiherranz.github.io/rocket-command-rockfall/)" target="_blank"><b>Play in the browser</b></a>
 
 <br>
 
