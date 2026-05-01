@@ -10,15 +10,15 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h4 align="center">Missile Command — Modern Edition</h4>
+<h4 align="center">Rocket Command: Rockfall</h4>
 
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank">
-<img src="./Screenshot%20-%20Missile%20Command%20-%20Modern%20Edition.png" width="100%" alt="Missile Command Modern Edition gameplay: incoming missiles over blue cities on yellow terrain">
+<a href="https://santiherranz.github.io/rocket-command-rockfall/" target="_blank">
+<img src="./Rocket%20Command%20Rockfall.png" width="100%" alt="Rocket Command Rockfall: defend cities from incoming meteors with ABMs">
 </a>
 
 <br><br>
 
-<a href="https://santiherranz.github.io/new-missile-command/" target="_blank"><b>Play in the browser</b></a>
+<a href="https://santiherranz.github.io/rocket-command-rockfall/" target="_blank"><b>Play in the browser</b></a>
 
 <br>
 
