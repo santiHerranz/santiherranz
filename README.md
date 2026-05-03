@@ -5,83 +5,72 @@
 <!--
   Game grid: newest first (left → right, top → bottom). Each row is two columns.
   To add a game, insert its <td> in date order or add a new <tr> with two cells.
+  Thumbnails: every game <img> uses the same inline style (fixed height + object-fit: cover)
+  so screenshots with different aspect ratios still align in the two-column layout.
+  Each <td> uses matching vertical padding so rows breathe between game pairs.
 -->
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
-<h4 align="center">Rockfall Command</h4>
-
-<a href="https://santiherranz.github.io/rockfall-command/" target="_blank">
-<img src="./Rockfall%20Command-Grok.jpg" width="100%" alt="Rockfall Command: defend cities from incoming meteors with ABMs">
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Tic Tac Toe — Colyseus</h4>
+<a href="https://canvas-colyseus-template-production.up.railway.app/" target="_blank">
+<img src="./Tic%20Tac%20Toe%20colyseus.png" width="100%" alt="Tic Tac Toe online: lobby, matchmaking, and live play with Colyseus" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
-
-<br><br>
-
-<p align="center"><a href="https://santiherranz.itch.io/rockfall-command" target="_blank"><b>Play on itch.io</b></a></p>
-
-<br><br>
-
-<a href="https://santiherranz.github.io/rockfall-command/" target="_blank"><b>Play in the browser</b></a>
-
 <br>
-
-<sub>2025–2026 · browser</sub>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://github.com/santiHerranz/canvas-colyseus-template" target="_blank"><b>Source on GitHub</b></a> · <a href="https://canvas-colyseus-template-production.up.railway.app/" target="_blank"><b>Play live demo</b></a></p>
+<sub>2026 · Colyseus · <a href="https://railway.app" target="_blank">Railway</a></sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
-<h4 align="center">Battle commander — Middle ages</h4>
-
-<a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank">
-<img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="100%" alt="Battle commander game screenshot">
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rockfall Command</h4>
+<a href="https://santiherranz.github.io/rockfall-command/" target="_blank">
+<img src="./Rockfall%20Command-Grok.jpg" width="100%" alt="Rockfall Command: defend cities from incoming meteors with ABMs" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
-
-<br><br>
-
-<a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank"><b>Play the game</b></a>
-
 <br>
-
-<sub>2023 <a href="https://js13kgames.com" target="_blank">JS13K</a> — 13th century theme</sub>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/rockfall-command" target="_blank"><b>Play on itch.io</b></a> · <a href="https://santiherranz.github.io/rockfall-command/" target="_blank"><b>Play in the browser</b></a></p>
+<sub>2025–2026 · browser</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
-<h4 align="center">SumoFighters</h4>
-
-<a href="https://santiherranz.github.io/SumoFighters/" target="_blank">
-<img src="./Screenshot%20-%20SumoFighters.png" width="100%" alt="SumoFighters robot sumo battle simulator screenshot">
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Battle commander — Middle ages</h4>
+<a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank">
+<img src="https://user-images.githubusercontent.com/961911/266772162-9d6b1d05-8fa9-4934-b209-b420ad9f24ec.png" width="100%" alt="Battle commander game screenshot" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
-
-<br><br>
-
-<a href="https://santiherranz.github.io/SumoFighters/" target="_blank"><b>Play in the browser</b></a>
-
 <br>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://js13kgames.com/games/battle-commander-middle-ages/index.html" target="_blank"><b>Play the game</b></a></p>
+<sub>2023 <a href="https://js13kgames.com" target="_blank">JS13K</a> — 13th century theme</sub>
 
+</td>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
+
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">SumoFighters</h4>
+<a href="https://santiherranz.github.io/SumoFighters/" target="_blank">
+<img src="./Screenshot%20-%20SumoFighters.png" width="100%" alt="SumoFighters robot sumo battle simulator screenshot" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
+</a>
+<br>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.github.io/SumoFighters/" target="_blank"><b>Play in the browser</b></a></p>
 <sub>2021 · robot sumo simulator</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
-<h4 align="center">Rocket Cargo</h4>
-
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rocket Cargo</h4>
 <a href="https://santiherranz.github.io/RocketCargo/" target="_blank">
-<img src="./Screenshot%20-%20Rocket%20Cargo.png" width="100%" alt="Rocket Cargo gameplay screenshot">
+<img src="./Screenshot%20-%20Rocket%20Cargo.png" width="100%" alt="Rocket Cargo gameplay screenshot" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
-
-<br><br>
-
-<a href="https://santiherranz.github.io/RocketCargo/" target="_blank"><b>Play in the browser</b></a>
-
 <br>
-
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.github.io/RocketCargo/" target="_blank"><b>Play in the browser</b></a></p>
 <sub>JS13K 2021</sub>
 
 </td>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;"></td>
 </tr>
 </table>
 
@@ -99,39 +88,47 @@ Pinned-style cards (live metadata from [github-readme-stats](https://github.com/
 <table>
 <tr>
 <td width="50%" valign="top">
+  <a href="https://github.com/santiHerranz/canvas-colyseus-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=canvas-colyseus-template&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="canvas-colyseus-template — Tic Tac Toe Colyseus" width="100%">
+  </a>
+</td>
+<td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/js13k2023-Battle-commander-Middle-ages">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=js13k2023-Battle-commander-Middle-ages&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="js13k2023 Battle commander Middle ages" width="100%">
   </a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/SumoFighters">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=SumoFighters&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="SumoFighters" width="100%">
   </a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/RocketCargo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=RocketCargo&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="RocketCargo" width="100%">
   </a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/js13k-2024">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=js13k-2024&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="js13k 2024" width="100%">
   </a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/Fire-and-water-interaction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=Fire-and-water-interaction&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="Fire and water interaction" width="100%">
   </a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/santiherranz.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=santiherranz.github.io&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="Portfolio site" width="100%">
   </a>
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -142,6 +139,7 @@ Pinned-style cards (live metadata from [github-readme-stats](https://github.com/
 | :--- | :--- | :---: |
 | [Balls](https://github.com/santiHerranz/Balls) | Created with CodeSandbox | JavaScript |
 | [BouncingBalls](https://github.com/santiHerranz/BouncingBalls) | Created with CodeSandbox | JavaScript |
+| [canvas-colyseus-template](https://github.com/santiHerranz/canvas-colyseus-template) | Tic Tac Toe online (Canvas + Colyseus template) | TypeScript |
 | [DISSENY-DE-BASES-DE-DADES](https://github.com/santiHerranz/DISSENY-DE-BASES-DE-DADES) | — | — |
 | [Enginyeria-Software-I](https://github.com/santiHerranz/Enginyeria-Software-I) | — | Java |
 | [Fire-and-water-interaction](https://github.com/santiHerranz/Fire-and-water-interaction) | Canvas fire and water interaction | JavaScript |
