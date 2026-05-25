@@ -13,15 +13,28 @@
 <tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
-<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Tic Tac Toe — Colyseus</h4>
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rockets and Drones: Firefighter</h4>
+<a href="https://santiherranz.itch.io/rockets-and-drones-firefighter" target="_blank">
+<img src="./Rockets%20and%20Drones%20Firefighter.png" width="100%" alt="Rockets and Drones: Firefighter — fight wildfires with rockets and drones" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
+</a>
+<br>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/rockets-and-drones-firefighter" target="_blank"><b>Play on itch.io</b></a></p>
+<sub>2026 · itch.io</sub>
+
+</td>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
+
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Battle Commander — Colyseus</h4>
 <a href="https://canvas-colyseus-template-production.up.railway.app/" target="_blank">
-<img src="./Tic%20Tac%20Toe%20colyseus.png" width="100%" alt="Tic Tac Toe online: lobby, matchmaking, and live play with Colyseus" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
+<img src="./Battle%20Commander%20-%20Colyseus.png" width="100%" alt="Battle Commander online: lobby, matchmaking, and live play with Colyseus" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
 <br>
 <p align="center" style="margin:0.35em 0 0.15em;"><a href="https://github.com/santiHerranz/canvas-colyseus-template" target="_blank"><b>Source on GitHub</b></a> · <a href="https://canvas-colyseus-template-production.up.railway.app/" target="_blank"><b>Play live demo</b></a></p>
 <sub>2026 · Colyseus · <a href="https://railway.app" target="_blank">Railway</a></sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
 <h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rockfall Command</h4>
@@ -33,8 +46,6 @@
 <sub>2025–2026 · browser</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
 <h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Battle commander — Middle ages</h4>
@@ -46,6 +57,8 @@
 <sub>2023 <a href="https://js13kgames.com" target="_blank">JS13K</a> — 13th century theme</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
 <h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">SumoFighters</h4>
@@ -57,8 +70,6 @@
 <sub>2021 · robot sumo simulator</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
 <h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rocket Cargo</h4>
@@ -70,7 +81,6 @@
 <sub>JS13K 2021</sub>
 
 </td>
-<td width="50%" valign="top" align="center" style="padding:22px 12px;"></td>
 </tr>
 </table>
 
@@ -89,7 +99,7 @@ Pinned-style cards (live metadata from [github-readme-stats](https://github.com/
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/santiHerranz/canvas-colyseus-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=canvas-colyseus-template&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="canvas-colyseus-template — Tic Tac Toe Colyseus" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiHerranz&repo=canvas-colyseus-template&theme=tokyonight&hide_border=true&border_radius=12&show_owner=false" alt="canvas-colyseus-template — Battle Commander Colyseus" width="100%">
   </a>
 </td>
 <td width="50%" valign="top">
@@ -139,7 +149,7 @@ Pinned-style cards (live metadata from [github-readme-stats](https://github.com/
 | :--- | :--- | :---: |
 | [Balls](https://github.com/santiHerranz/Balls) | Created with CodeSandbox | JavaScript |
 | [BouncingBalls](https://github.com/santiHerranz/BouncingBalls) | Created with CodeSandbox | JavaScript |
-| [canvas-colyseus-template](https://github.com/santiHerranz/canvas-colyseus-template) | Tic Tac Toe online (Canvas + Colyseus template) | TypeScript |
+| [canvas-colyseus-template](https://github.com/santiHerranz/canvas-colyseus-template) | Battle Commander online (Canvas + Colyseus template) | TypeScript |
 | [DISSENY-DE-BASES-DE-DADES](https://github.com/santiHerranz/DISSENY-DE-BASES-DE-DADES) | — | — |
 | [Enginyeria-Software-I](https://github.com/santiHerranz/Enginyeria-Software-I) | — | Java |
 | [Fire-and-water-interaction](https://github.com/santiHerranz/Fire-and-water-interaction) | Canvas fire and water interaction | JavaScript |
