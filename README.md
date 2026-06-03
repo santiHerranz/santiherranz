@@ -66,7 +66,7 @@
 <img src="./Rockfall%20Command-Grok.jpg" width="100%" alt="Rockfall Command: defend cities from incoming meteors with ABMs" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
 </a>
 <br>
-<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/rockfall-command" target="_blank"><b>Play on itch.io</b></a> · <a href="https://santiherranz.github.io/rockfall-command/" target="_blank"><b>Play in the browser</b></a></p>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/rockfall-command" target="_blank"><b>Play on itch.io</b></a> </p>
 <sub>2025–2026 · browser</sub>
 
 </td>
