@@ -13,6 +13,30 @@
 <tr>
 <td width="50%" valign="top" align="center" style="padding:22px 12px;">
 
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Battle Commander with LittleJS</h4>
+<a href="https://santiherranz.itch.io/battle-commander-with-littlejs" target="_blank">
+<img src="./littlejs-battle-commander.png" width="100%" alt="Battle Commander with LittleJS — pixel-art medieval army battle on a green field" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
+</a>
+<br>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/battle-commander-with-littlejs" target="_blank"><b>Preview on itch.io</b></a> — no public access</p>
+<sub>2026 · <a href="https://github.com/KilledByAPixel/LittleJS" target="_blank">LittleJS</a> · <a href="https://pixelfrog-assets.itch.io/tiny-swords" target="_blank">Tiny Swords</a></sub>
+
+</td>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
+
+<h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Classic Battleship with AI assist</h4>
+<a href="https://santiherranz.itch.io/online-battleship" target="_blank">
+<img src="./online-battleship.png" width="100%" alt="Online Battleship — turn-based naval tactics vs CPU with optional AI assist" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
+</a>
+<br>
+<p align="center" style="margin:0.35em 0 0.15em;"><a href="https://santiherranz.itch.io/online-battleship" target="_blank"><b>Play on itch.io</b></a></p>
+<sub>2026 · itch.io</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center" style="padding:22px 12px;">
+
 <h4 align="center" style="margin:0.25em 0;font-size:1.45em;line-height:1.2;">Rockets and Drones: Firefighter</h4>
 <a href="https://santiherranz.itch.io/rockets-and-drones-firefighter" target="_blank">
 <img src="./Rockets%20and%20Drones%20Firefighter.png" width="100%" alt="Rockets and Drones: Firefighter — fight wildfires with rockets and drones" style="width:100%;height:220px;object-fit:cover;object-position:center;display:block;border-radius:8px;">
